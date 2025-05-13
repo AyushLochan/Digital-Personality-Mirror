@@ -21,7 +21,7 @@ An interactive front-end project that dynamically creates a **live animated avat
 ## 🚀 Demo
 
 Check out the live demo here:  
-[🔗 Live Demo](#) *(Add link when hosted on GitHub Pages, Vercel, etc.)*
+[🔗 Live Demo](https://digital-personality-mirror-pol9q4wmq-ayush-lochnans-projects.vercel.app/)
 
 ---
 
